@@ -304,4 +304,6 @@ $RECYCLE.BIN/
 
 
 # End of https://www.gitignore.io/api/node,macos,windows,linux,jetbrains+all,eclipse
-release.sh
+release*
+docs/
+dist/
