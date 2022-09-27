@@ -14,7 +14,7 @@ your `config/custom-environment-variables.json` file in sync with the rest of yo
 ## Example
 ```
 # cd into a config-based Node.js project...
-$ npm install --save-dev @northscaler/config-custom-environment-variables-generator
+$ npm install --save-dev @ballistagroup/config-custom-environment-variables-generator
 $ npx cev
 ```
 If your project's configuration is
