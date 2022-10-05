@@ -14,8 +14,8 @@
   ],
   "license": "MIT",
   "bin": {
-    "cev": "cli.js",
-    "cev-ts": "cli-ts.ts"
+    "cev": "dist/main/cli.js",
+    "cev-ts": "dist/main/cli-ts.ts"
   },
   "main": "index.js",
   "scripts": {
